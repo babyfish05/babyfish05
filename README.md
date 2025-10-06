@@ -9,7 +9,11 @@
 ### ₊˚ʚ💌ɞ˚₊ 𝐶𝑜𝑛𝑛𝑒𝑐𝑡 𝑊𝑖𝑡ℎ 𝑀𝑒🌸
 [![https://www.instagram.com/naurfsh/](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/naurfsh/) [![discord](https://skillicons.dev/icons?i=discord)](https://skillicons.dev)
 ### 🌻🌷͙֒ 𝑀𝑦 𝐺𝑖𝑡𝐻𝑢𝑏 𝑆𝑡𝑎𝑡𝑠🌷͙֒𓍢🌻
-[![Nanau's GitHub stats](https://github-readme-stats.vercel.app/api?username=babyfish05&show_icons=true&theme=dracula&locale=id )](https://github.com/babyfish05)![](https://nirzak-streak-stats.vercel.app/?user=babyfish05&theme=radical&hide_border=false)![](https://github-readme-stats.vercel.app/api/top-langs/?username=babyfish05&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![Nanau's GitHub stats](https://github-readme-stats.vercel.app/api?username=babyfish05&show_icons=true&theme=dracula&locale=id )](https://github.com/babyfish05) 
+
+![](https://nirzak-streak-stats.vercel.app/?user=babyfish05&theme=radical&hide_border=false) 
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=babyfish05&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ###  ֒🎮͙֒✧˚ 𝑃𝑙𝑎𝑦 𝐺𝑎𝑚𝑒 𝑊𝑖𝑡ℎ 𝑀𝑒 🕹️  
 <picture>
