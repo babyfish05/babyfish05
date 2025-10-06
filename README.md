@@ -14,28 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
--  🌙 “Living life in dark mode 🌑.”
+-  Living life in dark mode 🌙
 
 ##### I code with 💻
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,php,cpp,laravel,postgres,figma)](https://skillicons.dev)
 ##### Connect  With me 🌷
-[![https://www.instagram.com/naurfsh/](https://skillicons.dev/icons?i=instagram)](https://skillicons.dev) [![discord](https://skillicons.dev/icons?i=discord)](https://skillicons.dev)
+[![https://www.instagram.com/naurfsh/](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/naurfsh/) [![discord](https://skillicons.dev/icons?i=discord)](https://skillicons.dev)
 ##### My Github Stats
 [![Nanau's GitHub stats](https://github-readme-stats.vercel.app/api?username=babyfish05&show_icons=true&theme=dracula&locale=id )](https://github.com/babyfish05)
 
-###
+![](https://nirzak-streak-stats.vercel.app/?user=babyfish05&theme=radical&hide_border=false)<br/>
 
-##### Spotify🎧
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=babyfish05&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/https://www.spotify.com/id-id/account/overview/?utm_source=spotify&utm_medium=menu&utm_campaign=your_account">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=https://www.spotify.com/id-id/account/overview/?utm_source=spotify&utm_medium=menu&utm_campaign=your_account&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
 ##### Play Game With me🎮
 
 ###
@@ -47,7 +38,4 @@ Here are some ideas to get you started:
 </picture>
 
 ###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=wave&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
-</div>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
